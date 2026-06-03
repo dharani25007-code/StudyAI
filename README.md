@@ -78,7 +78,7 @@
 
 ## 🧠 Self-Healing RAG Pipeline
 
-```
+```mermaid
 📄 User Question
         │
         ▼
